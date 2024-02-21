@@ -1,14 +1,11 @@
 <h1 dir="auto"><a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg"><img src="https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg" alt="name" style="max-width: 100%;"></a></h1>
 
 
-
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg"><img src="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg" alt="spectra-program-management-side-1024x576" style="max-width: 100%;"></a></p>
 
 
-
-<div align="center" dir="auto" width="30vw">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273"><img src="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273" data-canonical-src="https://github-profile-trophy.vercel.app/?username=trinib&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=4&amp;title=Repositories,Issues,Organizations,Stars"></a>
- </div>
+<hr>
+ 
 <p>💥As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.</p>
 
 <p>🆕Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.</p>
@@ -18,51 +15,10 @@
 
 <p>⏰ I can work 40+ hours per week, I can work in any timezone.</p>
 
-
-
-
+<hr>
 <table>
   <tbody>
-<!--   <tr>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a>
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a>
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="65" height="65" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="65" height="65" alt="Rest API" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="65" height="65" alt="Rest API" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%;"></a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6ed903c5b1c0e78386c1444bf950d30bfd65c4da93861f0addf865f3079ac07/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667"><img src="https://camo.githubusercontent.com/a6ed903c5b1c0e78386c1444bf950d30bfd65c4da93861f0addf865f3079ac07/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/nginx-icon.svg" style="max-width: 100%;"></a>
-      <br>Nginx
-    </td>
-  </tr> -->
+   <hr>
   <tr> 
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"><img src="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="48" height="48" alt="Git" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"></a>
@@ -140,5 +96,10 @@
     </td>
   </tr>
  <tr>
+
+ <hr>
+
+  <div align="center" dir="auto" width="30vw">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273"><img src="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273" data-canonical-src="https://github-profile-trophy.vercel.app/?username=trinib&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=4&amp;title=Repositories,Issues,Organizations,Stars"></a></div>
  </tr>
 </tbody></table>
