@@ -1,24 +1,14 @@
 <div align="center" dir="auto" width="30vw">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273"><img src="https://camo.githubusercontent.com/6bad2f2d3b9ace6ef9e4ea2245345ec3f3c8f598768125b05c2ae91947fc19b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273" data-canonical-src="https://github-profile-trophy.vercel.app/?username=trinib&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=4&amp;title=Repositories,Issues,Organizations,Stars"></a>
  </div>
-I am a creative software engineer with practical experience in website and pyton development.
-Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS, GCP.
+💥As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.
+🆕Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.
+🥍My Goal is to give my clients over 100% satisfaction and to implement your ideas real so that make your business thrive and grow.
+💯Being a talented and passionate developer with full-time availability,
+no steepI love to work for a long-term relationship with reasonable clients.
+🙏🏽If you hire me, I will do my best. Warmest regards.
 
-Web Development
-Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
-Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
-Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
-
-Python Development
-thensoflow
-PyQt
-Pygame
-
-Tools & Others
-Docker, Kubernetes, Ngnix, GitHub, Jenkins, Trello, Jira
-Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
-
-
+⏰ I can work 40+ hours per week, I can work in any timezone.
 
 
 
