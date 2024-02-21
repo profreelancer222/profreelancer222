@@ -5,7 +5,7 @@
 
 
 <hr>
- 
+<br/> 
 <p>💥As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.</p>
 
 <p>🆕Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.</p>
@@ -14,6 +14,7 @@
 <p>🙏🏽If you hire me, I will do my best. Warmest regards.</p>
 
 <p>⏰ I can work 40+ hours per week, I can work in any timezone.</p>
+<br/>
 
 
 <table>
