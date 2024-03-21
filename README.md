@@ -4,7 +4,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg"><img src="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg" alt="spectra-program-management-side-1024x576" style="max-width: 100%;"></a></p>
 <hr>
 <br/> 
-<p>💥As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.</p>
+<p>💥As a Professional developer who has 8 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.</p>
 <p>🆕Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.</p>
 <p>🥍My Goal is to give my clients over 100% satisfaction and to implement your ideas real so that make your business thrive and grow.</p>
 <p>💯Being a talented and passionate developer with full-time availability, no steepI love to work for a long-term relationship with reasonable clients.</p>
